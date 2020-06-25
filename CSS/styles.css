@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+  font-family: 'Rokkitt', serif;
+  margin: 40px 30px 20px;
+}
+
+h1 {
+  margin: 50px auto 50px auto;
+  font-family: 'Pacifico', cursive;
+  font-size: 4.0625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Rokkitt', serif;
+  font-size: 1.7rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Rokkitt', serif;
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 5%;
+  margin: 50px auto 50px auto;
+}
+
+
+.bottom-container{
+  width:100%;
+  height: 100px;
+  background-color:#66BFBF;
+  padding: 40px 0 20px;
+}
+.bottom-container p{
+  color: #EAF6F6;
+  padding: 20px;
+  font-size: 0.75rem;
+
+}
+
+.bottom-container a:hover{
+  color: #EAF6F6;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.btn{
+  display: inline-block;
+  margin: 30px auto 50px auto;
+}
+
+.contact-me p {
+  color: #40514E;
+}
+
+.middle-container p{
+  line-height: 2;
+}
+
+.my-image {
+  width: 20%;
+  margin: 50px auto 20px auto;
+}
+
+.photo-image {
+  margin-right: 30px;
+  float: left;
+  width: 30%;
+}
+
+.paint-image {
+  margin-left: 30px;
+  float: right;
+  width: 30%;
+}
+
+.web-image {
+  margin-right: 30px;
+  float: left;
+  width: 30%;
+}
+
+.profile p {
+  color: #40514E;
+  margin: 0 auto 40px auto;
+  width: 20%;
+}
+
+.skill-row {
+  text-align: left;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  line-height: 2;
+  color: #40514E;
+}
+
+.top-container p {
+  font-size: 1.7rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
